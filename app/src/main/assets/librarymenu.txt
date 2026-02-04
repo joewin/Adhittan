@@ -1,0 +1,16 @@
+"၁-သြကာသ", "awgartha.txt"
+
+"၂-မဟာပဌာန်း ဒေသနာတော်", "pahtan.txt"
+
+"၃-(၂၄)ပစ္စည်း။", "twentyfour.txt"
+
+"၄-ဂုဏ် တော်ကွန်ခြာ", "gonetawconchar.txt"
+
+"၅-ဓမ္မစကြာ", "damasetkyar.txt"
+
+"၆-မဂ္ဂင်ရှစ်ပါး", "magin.txt"
+
+"၇-ဘုရားဂုဏ်တော် ၉ ပါး","phayargonetaw.txt"
+
+"၈-ပရိတ်ကြီး ၁၁ သုတ်။", ".."
+
